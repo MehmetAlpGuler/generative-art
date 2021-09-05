@@ -3,7 +3,7 @@ const width = 1000;
 const height = 1000;
 const dir = __dirname;
 const description = "This is an NFT made by the coolest generative code.";
-const baseImageUri = "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=";
+const baseImageUri = "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output";
 const startEditionFrom = 1;
 const endEditionAt = 10;
 const editionSize = 10;

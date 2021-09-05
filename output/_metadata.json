@@ -1,11 +1,11 @@
 [
     {
-        "dna": "1101000100",
+        "dna": "1010000100",
         "name": "#1",
         "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=1.png",
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/1.png",
         "edition": 1,
-        "date": 1630790794335,
+        "date": 1630837146761,
         "attributes": [
             {
                 "trait_type": "Background",
@@ -13,15 +13,15 @@
             },
             {
                 "trait_type": "Suit",
-                "value": "Orange"
+                "value": "Regular"
             },
             {
                 "trait_type": "Shoulder",
-                "value": "LunaFlag"
+                "value": "USA"
             },
             {
                 "trait_type": "Pin",
-                "value": "LunaBluePin"
+                "value": "Smiley"
             },
             {
                 "trait_type": "Race",
@@ -53,9 +53,9 @@
         "dna": "1011000100",
         "name": "#2",
         "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=2.png",
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/2.png",
         "edition": 2,
-        "date": 1630790797062,
+        "date": 1630837149486,
         "attributes": [
             {
                 "trait_type": "Background",
@@ -64,56 +64,6 @@
             {
                 "trait_type": "Suit",
                 "value": "Regular"
-            },
-            {
-                "trait_type": "Shoulder",
-                "value": "USA"
-            },
-            {
-                "trait_type": "Pin",
-                "value": "LunaBluePin"
-            },
-            {
-                "trait_type": "Race",
-                "value": "Skull"
-            },
-            {
-                "trait_type": "Facial hair",
-                "value": "No facial hair"
-            },
-            {
-                "trait_type": "Mask",
-                "value": "No mask"
-            },
-            {
-                "trait_type": "Hair",
-                "value": "Pink"
-            },
-            {
-                "trait_type": "Accessories",
-                "value": "No accessories"
-            },
-            {
-                "trait_type": "Headwear",
-                "value": "Glass dome"
-            }
-        ]
-    },
-    {
-        "dna": "1111000100",
-        "name": "#3",
-        "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=3.png",
-        "edition": 3,
-        "date": 1630790799888,
-        "attributes": [
-            {
-                "trait_type": "Background",
-                "value": "Orange"
-            },
-            {
-                "trait_type": "Suit",
-                "value": "Orange"
             },
             {
                 "trait_type": "Shoulder",
@@ -151,11 +101,11 @@
     },
     {
         "dna": "0011000100",
-        "name": "#4",
+        "name": "#3",
         "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=4.png",
-        "edition": 4,
-        "date": 1630790802849,
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/3.png",
+        "edition": 3,
+        "date": 1630837152153,
         "attributes": [
             {
                 "trait_type": "Background",
@@ -200,12 +150,112 @@
         ]
     },
     {
-        "dna": "1010000000",
+        "dna": "1101000100",
+        "name": "#4",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/4.png",
+        "edition": 4,
+        "date": 1630837154776,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Suit",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Shoulder",
+                "value": "LunaFlag"
+            },
+            {
+                "trait_type": "Pin",
+                "value": "LunaBluePin"
+            },
+            {
+                "trait_type": "Race",
+                "value": "Skull"
+            },
+            {
+                "trait_type": "Facial hair",
+                "value": "No facial hair"
+            },
+            {
+                "trait_type": "Mask",
+                "value": "No mask"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Pink"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "No accessories"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Glass dome"
+            }
+        ]
+    },
+    {
+        "dna": "1111000100",
         "name": "#5",
         "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=5.png",
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/5.png",
         "edition": 5,
-        "date": 1630790805745,
+        "date": 1630837157407,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Suit",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Shoulder",
+                "value": "USA"
+            },
+            {
+                "trait_type": "Pin",
+                "value": "LunaBluePin"
+            },
+            {
+                "trait_type": "Race",
+                "value": "Skull"
+            },
+            {
+                "trait_type": "Facial hair",
+                "value": "No facial hair"
+            },
+            {
+                "trait_type": "Mask",
+                "value": "No mask"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Pink"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "No accessories"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Glass dome"
+            }
+        ]
+    },
+    {
+        "dna": "1011000000",
+        "name": "#6",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/6.png",
+        "edition": 6,
+        "date": 1630837160101,
         "attributes": [
             {
                 "trait_type": "Background",
@@ -221,7 +271,7 @@
             },
             {
                 "trait_type": "Pin",
-                "value": "Smiley"
+                "value": "LunaBluePin"
             },
             {
                 "trait_type": "Race",
@@ -250,62 +300,12 @@
         ]
     },
     {
-        "dna": "1010000100",
-        "name": "#6",
-        "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=6.png",
-        "edition": 6,
-        "date": 1630790808379,
-        "attributes": [
-            {
-                "trait_type": "Background",
-                "value": "Orange"
-            },
-            {
-                "trait_type": "Suit",
-                "value": "Regular"
-            },
-            {
-                "trait_type": "Shoulder",
-                "value": "USA"
-            },
-            {
-                "trait_type": "Pin",
-                "value": "Smiley"
-            },
-            {
-                "trait_type": "Race",
-                "value": "Skull"
-            },
-            {
-                "trait_type": "Facial hair",
-                "value": "No facial hair"
-            },
-            {
-                "trait_type": "Mask",
-                "value": "No mask"
-            },
-            {
-                "trait_type": "Hair",
-                "value": "Pink"
-            },
-            {
-                "trait_type": "Accessories",
-                "value": "No accessories"
-            },
-            {
-                "trait_type": "Headwear",
-                "value": "Glass dome"
-            }
-        ]
-    },
-    {
-        "dna": "1000000100",
+        "dna": "1111000000",
         "name": "#7",
         "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=7.png",
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/7.png",
         "edition": 7,
-        "date": 1630790811046,
+        "date": 1630837162785,
         "attributes": [
             {
                 "trait_type": "Background",
@@ -313,15 +313,15 @@
             },
             {
                 "trait_type": "Suit",
-                "value": "Regular"
+                "value": "Orange"
             },
             {
                 "trait_type": "Shoulder",
-                "value": "LunaFlag"
+                "value": "USA"
             },
             {
                 "trait_type": "Pin",
-                "value": "Smiley"
+                "value": "LunaBluePin"
             },
             {
                 "trait_type": "Race",
@@ -337,7 +337,7 @@
             },
             {
                 "trait_type": "Hair",
-                "value": "Pink"
+                "value": "Blonde bun"
             },
             {
                 "trait_type": "Accessories",
@@ -350,116 +350,16 @@
         ]
     },
     {
-        "dna": "1110000100",
+        "dna": "1001000100",
         "name": "#8",
         "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=8.png",
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/8.png",
         "edition": 8,
-        "date": 1630790813689,
+        "date": 1630837165429,
         "attributes": [
             {
                 "trait_type": "Background",
                 "value": "Orange"
-            },
-            {
-                "trait_type": "Suit",
-                "value": "Orange"
-            },
-            {
-                "trait_type": "Shoulder",
-                "value": "USA"
-            },
-            {
-                "trait_type": "Pin",
-                "value": "Smiley"
-            },
-            {
-                "trait_type": "Race",
-                "value": "Skull"
-            },
-            {
-                "trait_type": "Facial hair",
-                "value": "No facial hair"
-            },
-            {
-                "trait_type": "Mask",
-                "value": "No mask"
-            },
-            {
-                "trait_type": "Hair",
-                "value": "Pink"
-            },
-            {
-                "trait_type": "Accessories",
-                "value": "No accessories"
-            },
-            {
-                "trait_type": "Headwear",
-                "value": "Glass dome"
-            }
-        ]
-    },
-    {
-        "dna": "0111000100",
-        "name": "#9",
-        "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=9.png",
-        "edition": 9,
-        "date": 1630790816311,
-        "attributes": [
-            {
-                "trait_type": "Background",
-                "value": "Light blue"
-            },
-            {
-                "trait_type": "Suit",
-                "value": "Orange"
-            },
-            {
-                "trait_type": "Shoulder",
-                "value": "USA"
-            },
-            {
-                "trait_type": "Pin",
-                "value": "LunaBluePin"
-            },
-            {
-                "trait_type": "Race",
-                "value": "Skull"
-            },
-            {
-                "trait_type": "Facial hair",
-                "value": "No facial hair"
-            },
-            {
-                "trait_type": "Mask",
-                "value": "No mask"
-            },
-            {
-                "trait_type": "Hair",
-                "value": "Pink"
-            },
-            {
-                "trait_type": "Accessories",
-                "value": "No accessories"
-            },
-            {
-                "trait_type": "Headwear",
-                "value": "Glass dome"
-            }
-        ]
-    },
-    {
-        "dna": "0001000100",
-        "name": "#10",
-        "description": "This is an NFT made by the coolest generative code.",
-        "image": "https://www.dropbox.com/sh/6nkznl74dsivmf7/AACwTV6uaxJjoiZ7L_IfS_2Pa?dl=0&preview=10.png",
-        "edition": 10,
-        "date": 1630790818943,
-        "attributes": [
-            {
-                "trait_type": "Background",
-                "value": "Light blue"
             },
             {
                 "trait_type": "Suit",
@@ -488,6 +388,106 @@
             {
                 "trait_type": "Hair",
                 "value": "Pink"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "No accessories"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Glass dome"
+            }
+        ]
+    },
+    {
+        "dna": "0101001100",
+        "name": "#9",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/9.png",
+        "edition": 9,
+        "date": 1630837168111,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Light blue"
+            },
+            {
+                "trait_type": "Suit",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Shoulder",
+                "value": "LunaFlag"
+            },
+            {
+                "trait_type": "Pin",
+                "value": "LunaBluePin"
+            },
+            {
+                "trait_type": "Race",
+                "value": "Skull"
+            },
+            {
+                "trait_type": "Facial hair",
+                "value": "No facial hair"
+            },
+            {
+                "trait_type": "Mask",
+                "value": "Medical"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Pink"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "No accessories"
+            },
+            {
+                "trait_type": "Headwear",
+                "value": "Glass dome"
+            }
+        ]
+    },
+    {
+        "dna": "0011000000",
+        "name": "#10",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://raw.githubusercontent.com/MehmetAlpGuler/generative-art/master/output/10.png",
+        "edition": 10,
+        "date": 1630837170767,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Light blue"
+            },
+            {
+                "trait_type": "Suit",
+                "value": "Regular"
+            },
+            {
+                "trait_type": "Shoulder",
+                "value": "USA"
+            },
+            {
+                "trait_type": "Pin",
+                "value": "LunaBluePin"
+            },
+            {
+                "trait_type": "Race",
+                "value": "Skull"
+            },
+            {
+                "trait_type": "Facial hair",
+                "value": "No facial hair"
+            },
+            {
+                "trait_type": "Mask",
+                "value": "No mask"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Blonde bun"
             },
             {
                 "trait_type": "Accessories",
